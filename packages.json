@@ -6,5 +6,9 @@
   {
     "package": "smotif",
     "url": "https://github.com/drieslab/smotif"
+  },
+  {
+    "package": "tilework",
+    "url": "https://github.com/drieslab/tilework"
   }
 ]
