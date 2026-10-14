@@ -10,5 +10,9 @@
   {
     "package": "tilework",
     "url": "https://github.com/drieslab/tilework"
+  },
+  {
+    "package": "cosmxscan",
+    "url": "https://github.com/drieslab/cosmxscan"
   }
 ]
