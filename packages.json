@@ -14,5 +14,9 @@
   {
     "package": "cosmxscan",
     "url": "https://github.com/drieslab/cosmxscan"
+  },
+  {
+    "package": "spatialDWLS",
+    "url": "https://github.com/drieslab/spatialDWLS"
   }
 ]
