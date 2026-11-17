@@ -9,7 +9,8 @@
   },
   {
     "package": "tilework",
-    "url": "https://github.com/drieslab/tilework"
+    "url": "https://github.com/drieslab/tilework",
+    "branch": "dev"
   },
   {
     "package": "cosmxscan",
