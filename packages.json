@@ -19,5 +19,13 @@
   {
     "package": "spatialDWLS",
     "url": "https://github.com/drieslab/spatialDWLS"
+  },
+  {
+    "package": "edgeicg",
+    "url": "https://github.com/drieslab/edgeicg"
+  },
+  {
+    "package": "edgeicgrs",
+    "url": "https://github.com/drieslab/edgeicgrs"
   }
 ]
